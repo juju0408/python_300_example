@@ -1,0 +1,1 @@
+print("naver", "kakao", "samsung", sep = "/")
